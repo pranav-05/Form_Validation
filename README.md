@@ -1,7 +1,5 @@
 # Form_Validation
-~~"Voter ID Registration Form"~~ Validation using client side language JavaScript.
-
-## Solution:
+**"Voter ID Registration Form"** *Validation* using client side language JavaScript.
 
 
 ## Algorithm: 
@@ -11,4 +9,4 @@
   4. Display Result 
 
 ## Key Concepts: 
-  HTML DOM, JavaScript, HTML form Validation
+  -HTML DOM, JavaScript, HTML form Validation
